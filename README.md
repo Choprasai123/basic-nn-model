@@ -47,8 +47,8 @@ Evaluate the model with the testing data.
 ## PROGRAM
 
 ~~~
-Developed by:P.Siva Naga Nithin
-Reg no : 212221240037
+Developed by:Arani Chopra Sai
+Reg no : 212220040011
 ~~~
 ~~~
 ### To Read CSV file from Google Drive :
